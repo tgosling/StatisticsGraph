@@ -1,0 +1,15 @@
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\bin\Debug\StatsGraph.exe.config
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\bin\Debug\StatsGraph.exe
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\bin\Debug\StatsGraph.pdb
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\obj\Debug\StatsGraph.csprojAssemblyReference.cache
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\obj\Debug\View\MainWindow.g.cs
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\obj\Debug\App.g.cs
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\obj\Debug\StatsGraph_MarkupCompile.cache
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\obj\Debug\StatsGraph_MarkupCompile.lref
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\obj\Debug\View\MainWindow.baml
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\obj\Debug\StatsGraph.g.resources
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\obj\Debug\StatsGraph.Properties.Resources.resources
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\obj\Debug\StatsGraph.csproj.GenerateResource.cache
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\obj\Debug\StatsGraph.csproj.CoreCompileInputs.cache
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\obj\Debug\StatsGraph.exe
+D:\Documents\School\2019Level5WinterTerm\DefaultWorkspace\StatsGraph\StatsGraph\obj\Debug\StatsGraph.pdb
