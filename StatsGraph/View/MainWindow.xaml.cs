@@ -24,5 +24,38 @@ namespace StatsGraph
         {
             InitializeComponent();
         }
+        /*
+                 <CommandBinding Command="ApplicationCommands.Open"
+                        Executed="CommandBinding_OpenExecuted"/>
+        <CommandBinding Command="ApplicationCommands.Close"
+                        Executed="CommandBinding_Close"/>
+        <CommandBinding Command="ApplicationCommands.Save"
+                        Executed="CommandBinding_SaveExecuted"/>
+        <CommandBinding Command="ApplicationCommands.New"
+                        Executed="CommandBinding_NewGraph"/>*/
+        private void CommandBinding_OpenExecuted(object sender, ExecutedRoutedEventArgs e)
+        {
+
+        }
+
+        private void CommandBinding_Close(object sender, ExecutedRoutedEventArgs e)
+        {
+            Close();
+        }
+
+        private void CommandBinding_SaveExecuted(object sender, ExecutedRoutedEventArgs e)
+        {
+
+        }
+
+        private void CommandBinding_NewGraph(object sender, ExecutedRoutedEventArgs e)
+        {
+
+        }
+
+        private void HelpAbout_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Data Set: Population Estimates, Quarterly\n\n\nAuthor: Tyler MJ Gosling", "About");
+        }
     }
 }

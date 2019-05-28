@@ -9,7 +9,36 @@
     <Window.Resources>
         <ResourceDictionary Source="..\View\StatsGraphDictionary.xaml"/>
     </Window.Resources>
-    <Grid>
-        
-    </Grid>
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Open"
+                        Executed="CommandBinding_OpenExecuted"/>
+        <CommandBinding Command="ApplicationCommands.Close"
+                        Executed="CommandBinding_Close"/>
+        <CommandBinding Command="ApplicationCommands.Save"
+                        Executed="CommandBinding_SaveExecuted"/>
+        <CommandBinding Command="ApplicationCommands.New"
+                        Executed="CommandBinding_NewGraph"/>
+    </Window.CommandBindings>
+    <DockPanel LastChildFill="True">
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Command="ApplicationCommands.Open"/>
+                <MenuItem Command="ApplicationCommands.Save"/>
+                <Separator/>
+                <MenuItem Command="ApplicationCommands.Close"/>
+            </MenuItem>
+            <MenuItem Header="_Edit">
+                <MenuItem Header="_Remove"/>
+            </MenuItem>
+            <MenuItem Header="_Graph">
+                <MenuItem Header="_New Graph" Command="ApplicationCommands.New"/>
+            </MenuItem>
+            <MenuItem Header="_Help">
+                <MenuItem Header="_About" Click="HelpAbout_Click"/>
+            </MenuItem>
+        </Menu>
+        <Grid>
+
+        </Grid>
+    </DockPanel>
 </Window>
