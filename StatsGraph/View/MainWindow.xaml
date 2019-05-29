@@ -38,7 +38,13 @@
             </MenuItem>
         </Menu>
         <Grid>
-
+            <DataGrid Margin="10">
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn>
+                        
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
         </Grid>
     </DockPanel>
 </Window>
